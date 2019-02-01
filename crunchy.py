@@ -1,4 +1,4 @@
-# Anime finder
+# Crunchyroll anime finder
 # Created by Astral
 # Date: 1/18/19
 
